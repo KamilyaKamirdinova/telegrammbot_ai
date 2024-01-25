@@ -140,7 +140,7 @@ def help_command(update: Update, context: CallbackContext) -> None:
 
 
 def main() -> None:
-    updater = Updater("6867647010:AAHJ0rgES62Q4jbOJGrH7SxpL3Hztb_jvhU")
+    updater = Updater("") #enter your token for telegram bot
 
     dp = updater.dispatcher
 
